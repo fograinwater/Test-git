@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 在login分支上进行修改，不commit测试
 reset测试
+=======
+切换到login分支
+>>>>>>> Stashed changes
